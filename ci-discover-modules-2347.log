@@ -1,0 +1,5 @@
+2026-08-12T16:31:59.6922618Z Runner 4f737378-df36-4038-b3da-248e8631f0fe (version:v12.12.0) received task 2347 of job discover-***dules, triggered by event: push
+2026-08-12T16:31:59.6942600Z workflow prepared
+2026-08-12T16:31:59.7029587Z 🚀  Start image=127.0.0.1:3000/amany/genie-go-ci:1.26
+2026-08-12T16:31:59.7103451Z   🐳  docker pull image=127.0.0.1:3000/amany/genie-go-ci:1.26 platform=linux/amd64 username= forcePull=false
+2026-08-12T16:31:59.7246481Z Error response from dae***n: unauthorized: reqPackageAccess
